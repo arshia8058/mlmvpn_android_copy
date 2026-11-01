@@ -672,3 +672,46 @@ may consider it more useful to permit linking proprietary applications with
 the library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.  But first, please read
 <https://www.gnu.org/licenses/why-not-lgpl.html>.
+
+
+================================================================================
+ADDITIONAL TERM (permitted under GPLv3 Section 7 — "Additional Terms")
+================================================================================
+
+As an additional permission/requirement under Section 7 of the GNU General
+Public License v3, attached to this Program (mlmvpn_android) by its
+copyright holder, mlmvpn:
+
+  Preservation of Author Attribution. Pursuant to GPLv3 Section 7(b), you
+  must preserve, in any copy, redistribution, fork, or derivative work of
+  this Program (source or compiled), a clear and reasonably visible credit
+  to the original developer:
+
+      Original developer: mlmvpn
+      https://github.com/mlmvpn
+
+  This notice must appear somewhere reasonably visible to end users or
+  readers of the source (e.g. an "About" screen, README, or repository
+  description) and may not be removed, obscured, or replaced with a
+  different name/organization as the "original developer."
+
+This additional term is severable from and does not otherwise restrict the
+license granted by the GNU General Public License v3 above; where the two
+conflict, the additional term above controls only the attribution
+requirement, and all other GPLv3 rights and obligations (including your
+right to remove this additional term when redistributing under GPLv3
+Section 7, to the extent legally permitted) remain unaffected.
+
+================================================================================
+THIRD-PARTY COMPONENTS
+================================================================================
+
+This project vendors source from the following third-party GPL-3.0-licensed
+projects, under app/src/main/java/kittoku/mvc/ and
+app/src/main/java/com/github/shadowsocks/ respectively:
+
+  - kittoku/mvc (SoftEther/L2TP VPN client components)
+  - shadowsocks-android
+
+Their original copyrights and licenses apply to those files in addition to
+the terms above.
